@@ -503,7 +503,7 @@ pre,
 }
 pre,
 code {
-  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
+  font-family: 'monospace', consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   padding: 2px 4px;
@@ -908,7 +908,7 @@ pre .javascript .function {
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: normal;
   font-family: 'PingFang SC', 'PingFang SC', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
@@ -1548,7 +1548,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #697e3e;
+  background: #aaf1ff;
 }
 .links-of-blogroll {
   font-size: 13px;
