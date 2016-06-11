@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[test]]></title>
       <url>http://tomatoxegg.github.io/2016/06/11/test/</url>
-      <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>涿州尽英豪 东汉展雄姿<br>闭月中间舞 留得美人兮<br>英雄兮        美人兮<br>胸前两坨肉  长睡不愿起</p>
+      <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>涿州尽英豪 东汉展雄姿<br><a id="more"></a><br>闭月中间舞 留得美人兮<br>英雄兮        美人兮<br>胸前两坨肉  长睡不愿起</p>
 <p>之前在涿州出差，想到是桃园三结义的地方，顿时感慨万千。</p>
 <p>诗虽未完结，英雄美人填</p>
 ]]></content>
